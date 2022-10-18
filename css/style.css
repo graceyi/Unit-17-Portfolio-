@@ -3,11 +3,12 @@ body {
 }
 header {
   background-color: #a7a7f2;
-  padding: 45px;
+  padding: 40px;
 }
 header ul {
   float: right;
   color: white;
+  text-align: center;
 }
 header li {
   display: inline-block;
